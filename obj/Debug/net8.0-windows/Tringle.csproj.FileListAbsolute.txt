@@ -1,0 +1,17 @@
+C:\Users\opilane\source\repos\Tringle\bin\Debug\net8.0-windows\Tringle.exe
+C:\Users\opilane\source\repos\Tringle\bin\Debug\net8.0-windows\Tringle.deps.json
+C:\Users\opilane\source\repos\Tringle\bin\Debug\net8.0-windows\Tringle.runtimeconfig.json
+C:\Users\opilane\source\repos\Tringle\bin\Debug\net8.0-windows\Tringle.dll
+C:\Users\opilane\source\repos\Tringle\bin\Debug\net8.0-windows\Tringle.pdb
+C:\Users\opilane\source\repos\Tringle\obj\Debug\net8.0-windows\Tringle.Tringle_Vorm.resources
+C:\Users\opilane\source\repos\Tringle\obj\Debug\net8.0-windows\Tringle.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\Tringle\obj\Debug\net8.0-windows\Tringle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Tringle\obj\Debug\net8.0-windows\Tringle.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Tringle\obj\Debug\net8.0-windows\Tringle.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Tringle\obj\Debug\net8.0-windows\Tringle.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Tringle\obj\Debug\net8.0-windows\Tringle.dll
+C:\Users\opilane\source\repos\Tringle\obj\Debug\net8.0-windows\refint\Tringle.dll
+C:\Users\opilane\source\repos\Tringle\obj\Debug\net8.0-windows\Tringle.pdb
+C:\Users\opilane\source\repos\Tringle\obj\Debug\net8.0-windows\Tringle.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Tringle\obj\Debug\net8.0-windows\ref\Tringle.dll
+C:\Users\opilane\source\repos\Tringle\obj\Debug\net8.0-windows\Tringle.sourcelink.json
